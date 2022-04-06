@@ -6,7 +6,7 @@ int main(void)
 {
 	printf("How many apples do you have? ");
 	int i = GetInt();
-	printf("Mwahaha. I'm going to ear one of them!\n");
+	printf("Mwahaha. I'm going to eat one of them!\n");
 	i -= 1;
 	printf("Now you have %d apples!\n", i);
 
